@@ -1,4 +1,4 @@
 INVENTARIO DE TIENDA
 Producto: Camisa
 Cantidad: 10
-Precio: 70 Bs
+Precio: 100 Bs
